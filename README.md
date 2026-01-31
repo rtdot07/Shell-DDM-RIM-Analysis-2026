@@ -26,4 +26,5 @@ The objective of this project is to perform a comprehensive equity valuation of 
 •	Model Integration: Built a dynamic valuation dashboard that calculates the Present Value (PV) of future cash flows and residual income.
 
 ## Dashboard
+<img width="968" height="645" alt="download1" src="https://github.com/user-attachments/assets/eee6dbd5-101b-4fdf-9275-17a606760a86" />
 
