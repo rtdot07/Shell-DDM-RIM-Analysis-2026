@@ -18,3 +18,12 @@ The objective of this project is to perform a comprehensive equity valuation of 
 • From a long-term investor perspective, does value creation stem more from reinvestment efficiency or balance-sheet strength?
 
 -	Dashboard <a href="https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/download1.png">View Dashboard</a>
+
+## Process
+•	Data Extraction: Compiled historical data (2020-2024) for Revenue, EBIT, Net Income, and Dividends.
+•	Projection Modelling: Forecasted financial statements through 2031 based on estimated EBIT margins (~11%) and steady-state terminal growth (~4%).
+•	Capital Charge Calculation: Applied a 9% cost of equity to the Capital Employed to determine economic profit.
+•	Model Integration: Built a dynamic valuation dashboard that calculates the Present Value (PV) of future cash flows and residual income.
+
+## Dashboard
+
