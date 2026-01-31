@@ -17,4 +17,4 @@ The objective of this project is to perform a comprehensive equity valuation of 
 • Does the model indicate that the market is undervaluing future excess returns on equity, despite positive residual income generation?
 • From a long-term investor perspective, does value creation stem more from reinvestment efficiency or balance-sheet strength?
 
--	<a href="[https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/DDM%20Shell%20.xlsx](https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/download1.png)">Dataset</a>
+-	<a href="https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/DDM%20Shell%20.xlsx](https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/download1.png">Dataset</a>
