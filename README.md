@@ -27,9 +27,10 @@ The objective of this project is to perform a comprehensive equity valuation of 
 
 • From a long-term investor perspective, does value creation stem more from reinvestment efficiency or balance-sheet strength?
 
--	Dashboard <a href="https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/download1.png">View Dashboard</a>
+• Dashboard <a href="https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/download1.png">View Dashboard</a>
 
 ## Process
+
 •	Data Extraction: Compiled historical data (2020-2024) for Revenue, EBIT, Net Income, and Dividends.
 
 •	Projection Modelling: Forecasted financial statements through 2031 based on estimated EBIT margins (~11%) and steady-state terminal growth (~4%).
@@ -39,14 +40,19 @@ The objective of this project is to perform a comprehensive equity valuation of 
 •	Model Integration: Built a dynamic valuation dashboard that calculates the Present Value (PV) of future cash flows and residual income.
 
 ## Dashboard
+
 <img width="1029" height="662" alt="download1" src="https://github.com/user-attachments/assets/752c5e40-4453-4427-9314-575aa2e1361e" />
 
 ## Project Insights
 •	Economic Value Add: Shell is projected to generate positive Residual Income consistently through 2031, with a terminal value estimated at $61.97B.
+
 •	Margin Stability: EBIT margins are expected to stabilize around 11.05% by 2031, down from the 2022 high of 17.61%.
+
 •	Equity Cushion: The firm maintains a strong Book Value of Equity (~$133.73B), providing a significant margin of safety for investors.
+
 •	Discount to Intrinsic Value: The current market price of $27.05 represents a significant discount compared to the model's implied price of $35.88.
 
 ## Final Conclusion:
+
 To capitalize on current market inefficiencies, a BUY rating is recommended for Shell PLC at its current price of 20.29 GBP ($27.05 equivalent). The Residual Income Model yields an implied price of 26.91 GBP ($35.88), representing a significant 32.6% potential upside. This valuation is anchored by a robust Book Value of Equity ($133.73B) and consistent projected economic profits through 2031, suggesting that the firm is trading well below its fundamental earning power in both USD and GBP terms
 
