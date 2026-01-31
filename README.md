@@ -6,6 +6,7 @@ The objective of this project is to perform a comprehensive equity valuation of 
 -	<a href="https://github.com/rtdot07/Shell-DDM-RIM-Analysis-2026/blob/main/DDM%20Shell%20.xlsx">Dataset</a>
 
 ## Key Performance Indicators (KPIs) & Analysis Questions
+
 •	How has revenue growth translated into sustainable net income over time, and where does profitability normalize in the forecast period?
 •	What explains the sharp inflection in residual income during the early forecast years, and how does it stabilize in the long run?
 • How does EBIT margin evolution support (or constrain) future residual income generation?
